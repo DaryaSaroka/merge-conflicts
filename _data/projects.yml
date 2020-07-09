@@ -1,16 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
+# refrigerator database
+- project: refrigerator database
   role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  duration: Februarн, 2020 &mdash; March, 2020
+  #url:
+  description: Refrigerator database using ABAP programming language
 
-# GitHub Classroom
-- project: GitHub Classroom
+
+# Travel Company Database
+- project: Travel Company Database
   role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: March, 2020 &mdash; May, 2020
+  #url: 
+  description: Desktop application for working with a travel company database (creation of tours, their purchase and so on)
+
+# crossword
+- project: crossword
+  role: Contributor
+  duration: May, 2020 &mdash; June, 2020
+  url: "https://crossword-1313.web.app/"
+  description: Website for creating and solving crosswords
+
